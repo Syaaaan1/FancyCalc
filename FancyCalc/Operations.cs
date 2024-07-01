@@ -22,7 +22,7 @@ namespace FancyCalc
 
         public static int Sum(int x1, int x2, int x3)
         {
-            int sum1 = x1 + x2;
+            int sum1 = x1 + x2 ;
             int sum = sum1 + x3;
             return sum;
         }
